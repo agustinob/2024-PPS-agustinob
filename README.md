@@ -36,7 +36,7 @@ f. Podes escoller a licencia ou facelo noutro momento
 26. Proba a traballar no repositorio usando as dúas contas de usuario anteriores.
 27. Proba a creación de etiquetas anotadas e lixeiras.
 
-# # Información adicional sobre Git:
+## Información adicional sobre Git:
 - Aprende a usar Git: tutoriales, flujos de trabajo y comandos
 - Git
 - Git and GitHub learning resources
